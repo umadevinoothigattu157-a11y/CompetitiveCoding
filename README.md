@@ -16,13 +16,13 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 ### October 12, 2026
 
 -**Codeforces:**
-    282A — Bit++
+   - 282A — Bit++
 -**LeetCode:** 
-    121 — Best Time to Buy and Sell Stock
+    - 121 — Best Time to Buy and Sell Stock
 -**CodeChef:**
-    Contest Score
-    Most Expensive Item
+    - Contest Score
+    - Most Expensive Item
   -**GFG**
-      Reverse Array
+     - Reverse Array
 
 
