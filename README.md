@@ -14,15 +14,11 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - Intersection of Two Arrays II
 
 ### October 12, 2026
-
--**Codeforces:**
-   - 282A — Bit++
--**LeetCode:** 
-    - 121 — Best Time to Buy and Sell Stock
--**CodeChef:**
-    - Contest Score
-    - Most Expensive Item
-  -**GFG**
-     - Reverse Array
-
-
+- **GFG:** Reverse Array
+- **CodeChef:**
+  - Contest Score
+  - Most Expensive Item
+- **Codeforces:**
+  - 282A — Bit++
+- **LeetCode:**
+  - 121 — Best Time to Buy and Sell Stock
