@@ -22,3 +22,11 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 282A — Bit++
 - **LeetCode:**
   - 121 — Best Time to Buy and Sell Stock
+
+### October 13, 2026
+- **GFG:** Rotate Array
+- **CodeChef:** Add the problem name you solved today
+- **Codeforces:**
+  - 50A — Domino Piling
+- **LeetCode:**
+  - 189 — Rotate Array
