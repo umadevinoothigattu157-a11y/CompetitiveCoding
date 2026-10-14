@@ -30,3 +30,14 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 50A — Domino Piling
 - **LeetCode:**
   - 189 — Rotate Array
+
+### October 14, 2026
+- **GFG:** Next Permutation
+- **CodeChef:**
+  - Blue and Black Pens
+  - Change One
+  - Water Moving (Max)
+- **Codeforces:**
+  - 158A — Next Round
+- **LeetCode:**
+  - Next Permutation
