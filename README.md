@@ -41,3 +41,12 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 158A — Next Round
 - **LeetCode:**
   - Next Permutation
+
+### October 15, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Chefland Games
+- **Codeforces:**
+  - 263A — Beautiful Matrix
+- **LeetCode:**
+  - Palindrome
