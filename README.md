@@ -50,3 +50,12 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 263A — Beautiful Matrix
 - **LeetCode:**
   - Palindrome
+  - 
+### October 16, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Expert Setter
+- **Codeforces:**
+  - 1A — Theatre Square
+- **LeetCode:**
+  - Length of Last Word
