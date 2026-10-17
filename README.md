@@ -59,3 +59,14 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 1A — Theatre Square
 - **LeetCode:**
   - Length of Last Word
+
+ ### October 17, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Chef and Next Gen
+- **Codeforces:**
+  - 112A — Petya and Strings
+- **LeetCode:**
+  - 70 — Climbing Stairs
+
+
