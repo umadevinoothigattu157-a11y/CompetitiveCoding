@@ -69,4 +69,14 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 70 — Climbing Stairs
 
+October 18, 2026
+
+- GFG: —
+- CodeChef:
+  - Sugarcane Juice Business
+- Codeforces:
+  - 236A — Boy or Girl
+- LeetCode:
+  - 13 — Roman to Integer
+
 
