@@ -89,5 +89,14 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 339A — Helpful Maths
 - **LeetCode:**
   - 136 — Single Number
+
+### October 20, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Count the Notebooks
+- **Codeforces:**
+  - 281A — Word Capitalization
+- **LeetCode:**
+  - 112 — Path Sum
  
 
