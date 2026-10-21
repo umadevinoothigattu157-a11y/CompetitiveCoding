@@ -98,5 +98,15 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 281A — Word Capitalization
 - **LeetCode:**
   - 112 — Path Sum
- 
+
+### October 21, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Exun Quiz
+  - Exun Handshake
+  - Exun Leaderboard
+- **Codeforces:**
+  - 791A — Bear and Big Brother
+- **LeetCode:**
+  - 67 — Add Binary
 
