@@ -110,3 +110,12 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 67 — Add Binary
 
+### October 22, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Chef and Candies
+- **Codeforces:**
+  - 2276A — Perfect Sandwiches
+- **LeetCode:**
+  - 263 — Ugly Number
+
