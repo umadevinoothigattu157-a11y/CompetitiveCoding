@@ -118,4 +118,13 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 2276A — Perfect Sandwiches
 - **LeetCode:**
   - 263 — Ugly Number
+ 
+### October 23, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Car or Bike
+- **Codeforces:**
+  - 617A — Elephant
+- **LeetCode:**
+  - 507 — Perfect Number
 
