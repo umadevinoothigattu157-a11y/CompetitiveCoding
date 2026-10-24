@@ -128,3 +128,12 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 507 — Perfect Number
 
+### October 24, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Is the Score Consistent
+- **Codeforces:**
+  - 266A — Stones on the Table
+- **LeetCode:**
+  - Difference Between Peaks and Valleys
+
