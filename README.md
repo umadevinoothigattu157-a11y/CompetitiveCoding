@@ -137,3 +137,14 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - Difference Between Peaks and Valleys
 
+ 
+### October 25, 2026
+- **GFG:** —
+- **CodeChef:**
+  - The Three Topics
+- **Codeforces:**
+  - 546A — Soldier and Bananas
+- **LeetCode:**
+  - Binary Digit Score
+
+
