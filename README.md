@@ -146,5 +146,15 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 546A — Soldier and Bananas
 - **LeetCode:**
   - Binary Digit Score
+ 
+### October 26, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Draw Match
+  - Minimum number of Flips
+- **Codeforces:**
+  - 59A — Word
+- **LeetCode:**
+  - 238 — Product of Array Except Self
 
 
