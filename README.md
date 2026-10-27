@@ -157,4 +157,13 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 238 — Product of Array Except Self
 
+ ### October 27, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Monopoly
+- **Codeforces:**
+  - 118A — String Task
+- **LeetCode:**
+  - 3 — Longest Substring Without Repeating Characters
+
 
