@@ -166,4 +166,13 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 3 — Longest Substring Without Repeating Characters
 
+ ### October 28, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Problems in your to-do list
+- **Codeforces:**
+  - 977A — Wrong Subtraction
+- **LeetCode:**
+  - 53 — Maximum Subarray
+
 
