@@ -175,4 +175,12 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 53 — Maximum Subarray
 
+### October 29, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Air Conditioner Temperature
+- **Codeforces:**
+  - 110A — Nearly Lucky Number
+- **LeetCode:**
+  - 15 — 3Sum
 
