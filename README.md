@@ -184,3 +184,11 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 15 — 3Sum
 
+ ### October 30, 2026
+- **CodeChef:**
+  - Nearest Exit
+- **Codeforces:**
+  - 69A — Young Physicist
+- **LeetCode:**
+  - 11 — Container With Most Water
+
