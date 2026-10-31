@@ -192,3 +192,11 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 11 — Container With Most Water
 
+ ### October 31, 2026
+- **CodeChef:**
+  - Reverse The Number
+- **Codeforces:**
+  - 734A — Anton and Danik
+- **LeetCode:**
+  - 560 — Subarray Sum Equals K
+
