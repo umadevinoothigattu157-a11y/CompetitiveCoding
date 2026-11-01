@@ -200,3 +200,11 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 560 — Subarray Sum Equals K
 
+### November 1, 2026
+- **CodeChef:**
+  - Sasta Shark Tank
+- **Codeforces:**
+  - 96A — Football
+- **LeetCode:**
+  - 49 — Group Anagrams
+
