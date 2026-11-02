@@ -208,3 +208,12 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 49 — Group Anagrams
 
+ ### November 2, 2026
+- **CodeChef:**
+  - Chocochips
+  - Scoreboard
+- **Codeforces:**
+  - 41A — Translation
+- **LeetCode:**
+  - 424 — Longest Repeating Character Replacement
+
