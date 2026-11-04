@@ -217,3 +217,13 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 424 — Longest Repeating Character Replacement
 
+ ### November 4, 2026
+- **CodeChef:**
+  - Even the Odds
+  - Rectangle Covering
+  - Exact Change
+- **Codeforces:**
+  - 116A — Tram
+- **LeetCode:**
+  - 19 — Remove Nth Node From End of List
+
