@@ -227,3 +227,12 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 19 — Remove Nth Node From End of List
 
+### November 5, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Elections in Chefland
+- **Codeforces:**
+  - 1030A — In Search of an Easy Problem
+- **LeetCode:**
+  - 92 — Reverse Linked List II
+
