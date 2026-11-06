@@ -236,3 +236,12 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 92 — Reverse Linked List II
 
+### November 6, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Minimum Cars Required
+- **Codeforces:**
+  - 266B — Queue at the School
+- **LeetCode:**
+  - 303 — Range Sum Query – Immutable
+
