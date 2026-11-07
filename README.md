@@ -245,3 +245,11 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - 303 — Range Sum Query – Immutable
 
+### November 7, 2026
+- **CodeChef:**
+  - Test Score
+- **Codeforces:**
+  - 486A – Calculating Function
+- **LeetCode:**
+  - Count Valid Substrings I
+
