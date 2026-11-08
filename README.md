@@ -253,3 +253,10 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   - Count Valid Substrings I
 
+### November 8, 2026
+- **CodeChef:**
+  - Jenga Night
+- **Codeforces:**
+  - 467A – George and Accommodation
+- **LeetCode:**
+  - 1267 – Count Servers that Communicate
