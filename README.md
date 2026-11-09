@@ -260,3 +260,11 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 467A – George and Accommodation
 - **LeetCode:**
   - 1267 – Count Servers that Communicate
+
+### November 9, 2026
+- **CodeChef:**
+  - —
+- **Codeforces:**
+  - 58A – Chat room
+- **LeetCode:**
+  - 21 – Merge Two Sorted Lists (Linked List + Two Pointers)
