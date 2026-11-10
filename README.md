@@ -268,3 +268,11 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 58A – Chat room
 - **LeetCode:**
   - 21 – Merge Two Sorted Lists (Linked List + Two Pointers)
+ 
+### November 10, 2026
+- **CodeChef:**
+  - Bus Seat Numbering
+- **Codeforces:**
+  - 344A – Magnets
+- **LeetCode:**
+  - 4106 – Find Mismatched Segments Between Two Strings
