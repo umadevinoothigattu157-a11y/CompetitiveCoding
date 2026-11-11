@@ -276,3 +276,12 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 344A – Magnets
 - **LeetCode:**
   - 4106 – Find Mismatched Segments Between Two Strings
+
+### November 11, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Discuss Throw
+- **Codeforces:**
+  - Drinks
+- **LeetCode:**
+  - 143 — Reorder List
