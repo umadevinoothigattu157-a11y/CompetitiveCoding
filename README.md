@@ -285,3 +285,12 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - Drinks
 - **LeetCode:**
   - 143 — Reorder List
+
+ ### November 12, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Maximize Tastiness
+- **Codeforces:**
+  - Lucky Division
+- **LeetCode:**
+  - 3105-Longest  Strictly Increasing or Strictly Decreasing sub array 
