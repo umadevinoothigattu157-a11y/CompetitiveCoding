@@ -293,4 +293,13 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **Codeforces:**
   - Lucky Division
 - **LeetCode:**
-  - 3105-Longest  Strictly Increasing or Strictly Decreasing sub array 
+  - 3105-Longest  Strictly Increasing or Strictly Decreasing sub array
+ 
+   ### November 13, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Watching movies At 2x
+- **Codeforces:**
+  - Presents
+- **LeetCode:**
+  - search Insert position
