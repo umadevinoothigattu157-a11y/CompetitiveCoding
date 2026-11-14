@@ -303,3 +303,12 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - Presents
 - **LeetCode:**
   - search Insert position
+
+ ### November 14, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Police and Thief
+- **Codeforces:**
+  - 160A — Twins
+- **LeetCode:**
+  - 3364 — Minimum Positive Sum Subarray
