@@ -312,3 +312,14 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 160A — Twins
 - **LeetCode:**
   - 3364 — Minimum Positive Sum Subarray
+
+   ### November 15, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Flip The Cards
+- **Codeforces:**
+  - 318A-EvenOdds
+- **LeetCode:**
+  - Number of sub Arrays with Odd Sum
+
+ 
