@@ -321,5 +321,24 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 318A-EvenOdds
 - **LeetCode:**
   - Number of sub Arrays with Odd Sum
+ 
+   ### November 16, 2026
+- **GFG:** —
+- **CodeChef:**
+  - word guess
+  - gift boxes
+- **Codeforces:**
+  - 228A-is your horseshoe an the other hoof?
+- **LeetCode:**
+  - calculate digit sum of a string
+
+    ### November 17, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Bath in winters
+- **Codeforces:**
+  - 61A-ultra fast mathematician
+- **LeetCode:**
+  - Zigzag Conversion
 
  
