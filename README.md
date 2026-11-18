@@ -340,5 +340,14 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
   - 61A-ultra fast mathematician
 - **LeetCode:**
   - Zigzag Conversion
+ 
+    ### November 18, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Finding Shoes
+- **Codeforces:**
+  - 1328A-Divisiblity rule
+- **LeetCode:**
+  -minimum number of changes to convert binary string beautiful
 
  
