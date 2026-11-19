@@ -350,4 +350,16 @@ My daily coding solutions from GFG, LeetCode, CodeChef and Codeforces.
 - **LeetCode:**
   -minimum number of changes to convert binary string beautiful
 
+  ### November 19, 2026
+- **GFG:** —
+- **CodeChef:**
+  - Small Factorial
+- **Codeforces:**
+  - 705A-Hulk
+- **LeetCode:**
+  -minimum score by changing two elements
+
+
+
+
  
